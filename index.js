@@ -1,5 +1,5 @@
 
-function omega (param)
+function dividable (param)
 {
     let the_array = [];
     for(let i = 1; i <= param; i++)
